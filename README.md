@@ -4,7 +4,11 @@
 
 
 
-Uploading EvBuddyAppVideo.mp4…
+
+https://github.com/user-attachments/assets/3596cfd2-c578-4d44-9b07-fad86942f5d1
+
+
+
 
 
 ## Instruction to run the app

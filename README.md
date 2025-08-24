@@ -1,5 +1,12 @@
 # EV Buddy App - Intern Assignment 
 
+## Video Preview
+
+
+
+Uploading EvBuddyAppVideo.mp4…
+
+
 ## Instruction to run the app
 
 1. Clone the repository

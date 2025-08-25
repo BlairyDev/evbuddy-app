@@ -1,5 +1,9 @@
 # EV Buddy App - Intern Assignment 
 
+- **Clean Architecture**: With MVVM(Model-View-ViewModel) Pattern
+- **Dependency Injection**: With Hilt and Dagger
+- **Integrated Google Maps API**
+
 ## Video Preview
 
 

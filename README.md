@@ -3,6 +3,7 @@
 - **Clean Architecture**: With MVVM(Model-View-ViewModel) Pattern
 - **Dependency Injection**: With Hilt and Dagger
 - **Integrated Google Maps API**
+- **Jetpack Compose**
 
 ## Video Preview
 
